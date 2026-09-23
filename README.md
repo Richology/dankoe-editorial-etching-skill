@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/examples/knowledge-selection-3x4.png" alt="本 Skill 生成的知识选择主题黑白蚀刻插画" width="100%">
+      <img src="assets/examples/knowledge-selection-16x9.png" alt="本 Skill 生成的知识选择主题黑白蚀刻插画" width="100%">
       <br><strong>本 Skill 生成示例</strong><br>
       从大量知识中选择值得培育的一颗种子
     </td>
